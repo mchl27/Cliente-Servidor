@@ -1,0 +1,10 @@
+C:\Users\Usuario\Documents\University Ibero\2. Semester\2. Software architecture\2. Semester cut-off\Act 3  - Project\Connection\Client - Server\ClientConsola\bin\Debug\ClientConsola.exe.config
+C:\Users\Usuario\Documents\University Ibero\2. Semester\2. Software architecture\2. Semester cut-off\Act 3  - Project\Connection\Client - Server\ClientConsola\bin\Debug\ClientConsola.exe
+C:\Users\Usuario\Documents\University Ibero\2. Semester\2. Software architecture\2. Semester cut-off\Act 3  - Project\Connection\Client - Server\ClientConsola\bin\Debug\ClientConsola.pdb
+C:\Users\Usuario\Documents\University Ibero\2. Semester\2. Software architecture\2. Semester cut-off\Act 3  - Project\Connection\Client - Server\ClientConsola\bin\Debug\Newtonsoft.Json.dll
+C:\Users\Usuario\Documents\University Ibero\2. Semester\2. Software architecture\2. Semester cut-off\Act 3  - Project\Connection\Client - Server\ClientConsola\bin\Debug\Newtonsoft.Json.xml
+C:\Users\Usuario\Documents\University Ibero\2. Semester\2. Software architecture\2. Semester cut-off\Act 3  - Project\Connection\Client - Server\ClientConsola\obj\Debug\ClientConsola.csproj.AssemblyReference.cache
+C:\Users\Usuario\Documents\University Ibero\2. Semester\2. Software architecture\2. Semester cut-off\Act 3  - Project\Connection\Client - Server\ClientConsola\obj\Debug\ClientConsola.csproj.CoreCompileInputs.cache
+C:\Users\Usuario\Documents\University Ibero\2. Semester\2. Software architecture\2. Semester cut-off\Act 3  - Project\Connection\Client - Server\ClientConsola\obj\Debug\ClientCo.7F317BE6.Up2Date
+C:\Users\Usuario\Documents\University Ibero\2. Semester\2. Software architecture\2. Semester cut-off\Act 3  - Project\Connection\Client - Server\ClientConsola\obj\Debug\ClientConsola.exe
+C:\Users\Usuario\Documents\University Ibero\2. Semester\2. Software architecture\2. Semester cut-off\Act 3  - Project\Connection\Client - Server\ClientConsola\obj\Debug\ClientConsola.pdb
